@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY Git-Job/* /var/www/html
+COPY /home/ubuntu/jenkins/workspace/Git-Job/* /var/www/html
