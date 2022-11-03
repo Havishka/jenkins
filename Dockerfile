@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY . /var/www/html
+COPY ./Git-Job /var/www/html
